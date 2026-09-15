@@ -1,0 +1,1015 @@
+{
+  "checked_at": "2026-09-15T15:02:19.819509+09:00",
+  "method": "HTTP GET; index.html mapped to directory URL; response bytes SHA-256 vs ZIP; no browser interaction",
+  "base_url": "https://juniperphoton.dev/photoncam/",
+  "results": [
+    {
+      "path": "",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/",
+      "zip_sha256": "2862e80e516cab7055b45d9b5e9c0a0b2bcdb56fc29d2b7f0aa2ed46fe14e806",
+      "live_sha256": "2862e80e516cab7055b45d9b5e9c0a0b2bcdb56fc29d2b7f0aa2ed46fe14e806",
+      "identical": true
+    },
+    {
+      "path": "404.html",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/404.html",
+      "zip_sha256": "2503491efbe25a3dc83d2aec9f9dc979e9453a9630ca9d2524db4682882bd5f4",
+      "live_sha256": "2503491efbe25a3dc83d2aec9f9dc979e9453a9630ca9d2524db4682882bd5f4",
+      "identical": true
+    },
+    {
+      "path": "sitemap.xml",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/sitemap.xml",
+      "zip_sha256": "6b6230802fd3d4d3c02332b9af41e6a90441d56ee9ef7ca2e666f6937390dcb6",
+      "live_sha256": "6b6230802fd3d4d3c02332b9af41e6a90441d56ee9ef7ca2e666f6937390dcb6",
+      "identical": true
+    },
+    {
+      "path": "Background/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/Background/",
+      "zip_sha256": "4482ee3d780f2d3d4afcbdb760b914e9765794714a127c36d956260da4a240e7",
+      "live_sha256": "4482ee3d780f2d3d4afcbdb760b914e9765794714a127c36d956260da4a240e7",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/",
+      "zip_sha256": "3c0da920f8bb57bd3dd41815576b973b934fd22e24672ab408d74dceedab7ed3",
+      "live_sha256": "3c0da920f8bb57bd3dd41815576b973b934fd22e24672ab408d74dceedab7ed3",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/404.html",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/404.html",
+      "zip_sha256": "65ce21119ba7cb4719ef77377f76c117710ce1d561ba987f573814f0b83795d1",
+      "live_sha256": "65ce21119ba7cb4719ef77377f76c117710ce1d561ba987f573814f0b83795d1",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/sitemap.xml",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/sitemap.xml",
+      "zip_sha256": "ad4aafc0cd8977ec9b137e6cef1ebd40a2a5a4ff58f82567aa979ea62cd34df2",
+      "live_sha256": "ad4aafc0cd8977ec9b137e6cef1ebd40a2a5a4ff58f82567aa979ea62cd34df2",
+      "identical": true
+    },
+    {
+      "path": "privacy/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/privacy/",
+      "zip_sha256": "7cc0e5a5035786f540086a76bbbf607c8dda6a20a02435ef836791262b5d6686",
+      "live_sha256": "7cc0e5a5035786f540086a76bbbf607c8dda6a20a02435ef836791262b5d6686",
+      "identical": true
+    },
+    {
+      "path": "gallery/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/gallery/",
+      "zip_sha256": "bef374f27e7d642c4aaedc408ffedb1bb60ddc9fa057824bb9fd90e3f77f423f",
+      "live_sha256": "bef374f27e7d642c4aaedc408ffedb1bb60ddc9fa057824bb9fd90e3f77f423f",
+      "identical": true
+    },
+    {
+      "path": "Subscriptions/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/Subscriptions/",
+      "zip_sha256": "2b73547fac5e26163e2fccf2aa4b8271ba812620236c1bc4cbe83112dbf3fffc",
+      "live_sha256": "2b73547fac5e26163e2fccf2aa4b8271ba812620236c1bc4cbe83112dbf3fffc",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/Background/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/Background/",
+      "zip_sha256": "2fa17e50d9b53f4513e1cb2129db81b0db79f30b2491c4445451829f5811163e",
+      "live_sha256": "2fa17e50d9b53f4513e1cb2129db81b0db79f30b2491c4445451829f5811163e",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/privacy/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/privacy/",
+      "zip_sha256": "63f9b64cc01dd0be683e30c5e8041d87acabc63851a8511ccd734cf716f3289a",
+      "live_sha256": "63f9b64cc01dd0be683e30c5e8041d87acabc63851a8511ccd734cf716f3289a",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/gallery/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/gallery/",
+      "zip_sha256": "e0018befbfed998f7fef437975829fb8452c5c46e5622532666e8663875d24fd",
+      "live_sha256": "e0018befbfed998f7fef437975829fb8452c5c46e5622532666e8663875d24fd",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/Subscriptions/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/Subscriptions/",
+      "zip_sha256": "8d20f4f16ea2876d8afddbe04982d5a76c344113f36e5a2643ad89d35a77fb20",
+      "live_sha256": "8d20f4f16ea2876d8afddbe04982d5a76c344113f36e5a2643ad89d35a77fb20",
+      "identical": true
+    },
+    {
+      "path": "docs/ManageFilters/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/docs/ManageFilters/",
+      "zip_sha256": "eba0dc577f13987f4f1ac620fce904ad85bdfb9fc8821c09c49819ac6970f5f2",
+      "live_sha256": "eba0dc577f13987f4f1ac620fce904ad85bdfb9fc8821c09c49819ac6970f5f2",
+      "identical": true
+    },
+    {
+      "path": "docs/PhotoExtension/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/docs/PhotoExtension/",
+      "zip_sha256": "51b495d8b44144ae6b265caf51050d12ba52f1afbfa3b299ee278b5530225854",
+      "live_sha256": "51b495d8b44144ae6b265caf51050d12ba52f1afbfa3b299ee278b5530225854",
+      "identical": true
+    },
+    {
+      "path": "docs/ImportLut/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/docs/ImportLut/",
+      "zip_sha256": "d14caa39818e238b5f4bcfee3b44dd03b7a6e6a0f5129fc9461cbae1d05622a4",
+      "live_sha256": "d14caa39818e238b5f4bcfee3b44dd03b7a6e6a0f5129fc9461cbae1d05622a4",
+      "identical": true
+    },
+    {
+      "path": "docs/FusionCamera/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/docs/FusionCamera/",
+      "zip_sha256": "448e14ba051551e2d6188ff16da4c1fabf45fdb19fd899a676e06a0de151acdd",
+      "live_sha256": "448e14ba051551e2d6188ff16da4c1fabf45fdb19fd899a676e06a0de151acdd",
+      "identical": true
+    },
+    {
+      "path": "docs/LogLut/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/docs/LogLut/",
+      "zip_sha256": "005b15f167c97a59760fddbc46f17868add400f37704b80d8fb7f34ab11edd24",
+      "live_sha256": "005b15f167c97a59760fddbc46f17868add400f37704b80d8fb7f34ab11edd24",
+      "identical": true
+    },
+    {
+      "path": "docs/CaptureProcess/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/docs/CaptureProcess/",
+      "zip_sha256": "939fb6e48a78101d413833caf16a751ab87d2c4bd728a5a76274429c91d2ff8a",
+      "live_sha256": "939fb6e48a78101d413833caf16a751ab87d2c4bd728a5a76274429c91d2ff8a",
+      "identical": true
+    },
+    {
+      "path": "docs/intro/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/docs/intro/",
+      "zip_sha256": "41a94f15a21370defc27137b42742bce16c2ab5923e2a6ff2c0aac5301dd0f8c",
+      "live_sha256": "41a94f15a21370defc27137b42742bce16c2ab5923e2a6ff2c0aac5301dd0f8c",
+      "identical": true
+    },
+    {
+      "path": "docs/AdvanceTools/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/docs/AdvanceTools/",
+      "zip_sha256": "23e157137c8bf1919788ed4e409a6dbce32164d7f44b7dc9343a9af282be054f",
+      "live_sha256": "23e157137c8bf1919788ed4e409a6dbce32164d7f44b7dc9343a9af282be054f",
+      "identical": true
+    },
+    {
+      "path": "docs/HDR/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/docs/HDR/",
+      "zip_sha256": "ca53f9d39ed94c7af8de736cd8051c0d63ca243e3976c3cd419f37444b397ff9",
+      "live_sha256": "ca53f9d39ed94c7af8de736cd8051c0d63ca243e3976c3cd419f37444b397ff9",
+      "identical": true
+    },
+    {
+      "path": "docs/HDRVideo/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/docs/HDRVideo/",
+      "zip_sha256": "49e5e4920690a9e001a8ccdea300bcdc19ff5d9ae76e217ec37fb5011b720c8e",
+      "live_sha256": "49e5e4920690a9e001a8ccdea300bcdc19ff5d9ae76e217ec37fb5011b720c8e",
+      "identical": true
+    },
+    {
+      "path": "docs/CaptureSettingsGuide/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/docs/CaptureSettingsGuide/",
+      "zip_sha256": "ec24cd24182c77da6b74df370207fd3bc487714b16128c3e7f73cb2350feb087",
+      "live_sha256": "ec24cd24182c77da6b74df370207fd3bc487714b16128c3e7f73cb2350feb087",
+      "identical": true
+    },
+    {
+      "path": "docs/InAppTutorial/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/docs/InAppTutorial/",
+      "zip_sha256": "7762f00187ab83cd2b59f71c37b49cd1a265f2dcc66b0588dcb9305604af01c2",
+      "live_sha256": "7762f00187ab83cd2b59f71c37b49cd1a265f2dcc66b0588dcb9305604af01c2",
+      "identical": true
+    },
+    {
+      "path": "docs/LumixLabLog/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/docs/LumixLabLog/",
+      "zip_sha256": "949504c51ffc51fd97904712c54c993e33a8a44b89f08fb5ba2eef6a81463f79",
+      "live_sha256": "949504c51ffc51fd97904712c54c993e33a8a44b89f08fb5ba2eef6a81463f79",
+      "identical": true
+    },
+    {
+      "path": "docs/QA/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/docs/QA/",
+      "zip_sha256": "5515c420f45b1099a528130774ef8d8f91c5beb7581b8a33d3026dde6eada263",
+      "live_sha256": "5515c420f45b1099a528130774ef8d8f91c5beb7581b8a33d3026dde6eada263",
+      "identical": true
+    },
+    {
+      "path": "docs/CovnertXMPToCube/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/docs/CovnertXMPToCube/",
+      "zip_sha256": "590719f630a3c03a63ea734e9bca3816e9146982d0cbb7759301fd6ea002d5de",
+      "live_sha256": "590719f630a3c03a63ea734e9bca3816e9146982d0cbb7759301fd6ea002d5de",
+      "identical": true
+    },
+    {
+      "path": "docs/DesharpenSettings/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/docs/DesharpenSettings/",
+      "zip_sha256": "4bed20c79a5410e956419c9aa217a77ec61b1711b5501a0348df2dad15757454",
+      "live_sha256": "4bed20c79a5410e956419c9aa217a77ec61b1711b5501a0348df2dad15757454",
+      "identical": true
+    },
+    {
+      "path": "docs/BatchEdit/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/docs/BatchEdit/",
+      "zip_sha256": "80ce79ccce2b95551c68ff1a6ed2a5122d4a4400773d87cac45143ed4dd71ad8",
+      "live_sha256": "80ce79ccce2b95551c68ff1a6ed2a5122d4a4400773d87cac45143ed4dd71ad8",
+      "identical": true
+    },
+    {
+      "path": "docs/RemoveWatermark/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/docs/RemoveWatermark/",
+      "zip_sha256": "5b66b75499efce615c8abb83502b3eab0ce59ee192d127f7ac1bc1c8acb72a70",
+      "live_sha256": "5b66b75499efce615c8abb83502b3eab0ce59ee192d127f7ac1bc1c8acb72a70",
+      "identical": true
+    },
+    {
+      "path": "docs/Luts/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/docs/Luts/",
+      "zip_sha256": "c2ca2455f59d106f9364f741dd2aa35d3653e5866e9f4e3741e6294fa2eee57e",
+      "live_sha256": "c2ca2455f59d106f9364f741dd2aa35d3653e5866e9f4e3741e6294fa2eee57e",
+      "identical": true
+    },
+    {
+      "path": "assets/css/styles.fd58e2a5.css",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/css/styles.fd58e2a5.css",
+      "zip_sha256": "5c86fcd90a7e97d221d8122c506d58c942806fc6a62373e8da24ca4a068ed582",
+      "live_sha256": "5c86fcd90a7e97d221d8122c506d58c942806fc6a62373e8da24ca4a068ed582",
+      "identical": true
+    },
+    {
+      "path": "assets/js/runtime~main.b209e829.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/runtime~main.b209e829.js",
+      "zip_sha256": "9c0447a2435d4472e46c7f642a428ef00b5aa03ac796e7f82965aaec41c85486",
+      "live_sha256": "9c0447a2435d4472e46c7f642a428ef00b5aa03ac796e7f82965aaec41c85486",
+      "identical": true
+    },
+    {
+      "path": "assets/js/55249107.5e696ad2.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/55249107.5e696ad2.js",
+      "zip_sha256": "14d991d1470abf8ccb721cf7f1ef3c0c68257755778a11cedda687ef75ba7b87",
+      "live_sha256": "14d991d1470abf8ccb721cf7f1ef3c0c68257755778a11cedda687ef75ba7b87",
+      "identical": true
+    },
+    {
+      "path": "assets/js/0ff0345c.63b6a3ec.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/0ff0345c.63b6a3ec.js",
+      "zip_sha256": "4adcfb0318dda8e9521ebea01b8484b846043c829b748a3bd6d479ead62345b1",
+      "live_sha256": "4adcfb0318dda8e9521ebea01b8484b846043c829b748a3bd6d479ead62345b1",
+      "identical": true
+    },
+    {
+      "path": "assets/js/5e95c892.7dc3e3cb.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/5e95c892.7dc3e3cb.js",
+      "zip_sha256": "4cf2e04d9e5648e6653d551a32e88d92c3174858e3f854d13ce2078bd24a614b",
+      "live_sha256": "4cf2e04d9e5648e6653d551a32e88d92c3174858e3f854d13ce2078bd24a614b",
+      "identical": true
+    },
+    {
+      "path": "assets/js/a7456010.cb1a6fca.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/a7456010.cb1a6fca.js",
+      "zip_sha256": "72339f1c47b3ad7273b09281465b9aa924abb4a170a4b9d4f014b207776cf598",
+      "live_sha256": "72339f1c47b3ad7273b09281465b9aa924abb4a170a4b9d4f014b207776cf598",
+      "identical": true
+    },
+    {
+      "path": "assets/js/1f391b9e.0e81a445.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/1f391b9e.0e81a445.js",
+      "zip_sha256": "6589386209b64fc9dfe8fc08a98f861d7ab476b0925f7ddc54582c31fc649227",
+      "live_sha256": "6589386209b64fc9dfe8fc08a98f861d7ab476b0925f7ddc54582c31fc649227",
+      "identical": true
+    },
+    {
+      "path": "assets/js/aba21aa0.7664c637.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/aba21aa0.7664c637.js",
+      "zip_sha256": "e37b379161f5abf0c9feba97f11096337ffaa2d6ced4c8727ffc1e5e8ee7a2f6",
+      "live_sha256": "e37b379161f5abf0c9feba97f11096337ffaa2d6ced4c8727ffc1e5e8ee7a2f6",
+      "identical": true
+    },
+    {
+      "path": "assets/js/68550b8e.99b11a22.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/68550b8e.99b11a22.js",
+      "zip_sha256": "1204d1825d33ea6294caa891f3ff78172a91167190bec4da3addf192f3a01947",
+      "live_sha256": "1204d1825d33ea6294caa891f3ff78172a91167190bec4da3addf192f3a01947",
+      "identical": true
+    },
+    {
+      "path": "assets/js/5d84f36b.821fd081.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/5d84f36b.821fd081.js",
+      "zip_sha256": "6817f9129ee78e0abb1e2f63fd9cdc0739a1c47eff0af93f7ae2d5d7364cf9f6",
+      "live_sha256": "6817f9129ee78e0abb1e2f63fd9cdc0739a1c47eff0af93f7ae2d5d7364cf9f6",
+      "identical": true
+    },
+    {
+      "path": "assets/js/17896441.beaf425c.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/17896441.beaf425c.js",
+      "zip_sha256": "2663798cad4b6fb9f8e91c5520f685bb3732199ffffeaceee20e6c647c8706c3",
+      "live_sha256": "2663798cad4b6fb9f8e91c5520f685bb3732199ffffeaceee20e6c647c8706c3",
+      "identical": true
+    },
+    {
+      "path": "assets/js/7a1e5a42.8c902e88.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/7a1e5a42.8c902e88.js",
+      "zip_sha256": "62d30309ef7807a7aeda8ec28bf441dbf6dc253b75761d54bcc41dd17d6a2927",
+      "live_sha256": "62d30309ef7807a7aeda8ec28bf441dbf6dc253b75761d54bcc41dd17d6a2927",
+      "identical": true
+    },
+    {
+      "path": "assets/js/8f56b697.79369dc1.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/8f56b697.79369dc1.js",
+      "zip_sha256": "6e37f9ec3c311c99dac42a18b6b42b5e6509e1dc7d068448026b1d1d50b436c1",
+      "live_sha256": "6e37f9ec3c311c99dac42a18b6b42b5e6509e1dc7d068448026b1d1d50b436c1",
+      "identical": true
+    },
+    {
+      "path": "assets/js/main.dbfbdb02.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/main.dbfbdb02.js",
+      "zip_sha256": "375ef9595a2e091d27340ea09c44e1d08cf3af3c94fb5df99bf08318259b2b33",
+      "live_sha256": "375ef9595a2e091d27340ea09c44e1d08cf3af3c94fb5df99bf08318259b2b33",
+      "identical": true
+    },
+    {
+      "path": "assets/js/a7bd4aaa.591d3369.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/a7bd4aaa.591d3369.js",
+      "zip_sha256": "bacbed50ff811537b09b409d37e62d29cb12d0358511f847fabcdba75d133786",
+      "live_sha256": "bacbed50ff811537b09b409d37e62d29cb12d0358511f847fabcdba75d133786",
+      "identical": true
+    },
+    {
+      "path": "assets/js/cc28730e.16a5c236.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/cc28730e.16a5c236.js",
+      "zip_sha256": "714656dce06a72141f33b795fa65aa7d028ca2faeca6d64db03eaaa9b57dc9c8",
+      "live_sha256": "714656dce06a72141f33b795fa65aa7d028ca2faeca6d64db03eaaa9b57dc9c8",
+      "identical": true
+    },
+    {
+      "path": "assets/js/cf817e28.1a8a50bd.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/cf817e28.1a8a50bd.js",
+      "zip_sha256": "7c1cf9f8484506e750c49e846c5e8824799ec14653fa3e1f1f07efbbc5af42ca",
+      "live_sha256": "7c1cf9f8484506e750c49e846c5e8824799ec14653fa3e1f1f07efbbc5af42ca",
+      "identical": true
+    },
+    {
+      "path": "assets/js/9e70a15e.3978f842.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/9e70a15e.3978f842.js",
+      "zip_sha256": "fea124ca019174210717e8ab93d60a779b791b671c04fd940a8548e4440578f1",
+      "live_sha256": "fea124ca019174210717e8ab93d60a779b791b671c04fd940a8548e4440578f1",
+      "identical": true
+    },
+    {
+      "path": "assets/js/a94703ab.3786ba98.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/a94703ab.3786ba98.js",
+      "zip_sha256": "55d9a051ed1258d67d0e8bf7795860263022e528d8d72e6b2584d75ab284a6ed",
+      "live_sha256": "55d9a051ed1258d67d0e8bf7795860263022e528d8d72e6b2584d75ab284a6ed",
+      "identical": true
+    },
+    {
+      "path": "assets/js/dcef1982.e06043fe.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/dcef1982.e06043fe.js",
+      "zip_sha256": "7a89ae380a0fa529113de1c2f1beeb573ef9e424315b582b9afe33402e6daa50",
+      "live_sha256": "7a89ae380a0fa529113de1c2f1beeb573ef9e424315b582b9afe33402e6daa50",
+      "identical": true
+    },
+    {
+      "path": "assets/js/c4f5d8e4.60e42543.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/c4f5d8e4.60e42543.js",
+      "zip_sha256": "919c24da18542bae474339a272cc8d224927226bdc9bcc4183062e381ab726dc",
+      "live_sha256": "919c24da18542bae474339a272cc8d224927226bdc9bcc4183062e381ab726dc",
+      "identical": true
+    },
+    {
+      "path": "assets/js/186863e3.c5ff57f5.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/186863e3.c5ff57f5.js",
+      "zip_sha256": "922ad5baafa3e5fb188dd37a6d4e04bae59c438f2bbe8fb54734bdb81fef1e24",
+      "live_sha256": "922ad5baafa3e5fb188dd37a6d4e04bae59c438f2bbe8fb54734bdb81fef1e24",
+      "identical": true
+    },
+    {
+      "path": "assets/js/237.17b86356.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/237.17b86356.js",
+      "zip_sha256": "cffc0489d8fb5686d084e3e1f8326904690a2ac1a9464580aab3b7e5cd8ceb3d",
+      "live_sha256": "cffc0489d8fb5686d084e3e1f8326904690a2ac1a9464580aab3b7e5cd8ceb3d",
+      "identical": true
+    },
+    {
+      "path": "assets/js/3a9b2022.96eefa7d.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/3a9b2022.96eefa7d.js",
+      "zip_sha256": "3b058cc52beb81ed21f1977677d7bca661e8011b5dcafaffa06115f1a5b28c85",
+      "live_sha256": "3b058cc52beb81ed21f1977677d7bca661e8011b5dcafaffa06115f1a5b28c85",
+      "identical": true
+    },
+    {
+      "path": "assets/js/f53129ee.73deb0cd.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/f53129ee.73deb0cd.js",
+      "zip_sha256": "5e745fcaf33aac0ba10575854da1a6deb5c11dd7c12f16ac49169c5bb859d052",
+      "live_sha256": "5e745fcaf33aac0ba10575854da1a6deb5c11dd7c12f16ac49169c5bb859d052",
+      "identical": true
+    },
+    {
+      "path": "assets/js/4d58696f.f85fcd2b.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/4d58696f.f85fcd2b.js",
+      "zip_sha256": "df760ec3a65b497e52cb78cbe3ade62123d44ff5c7faa463ca56233f99b92e23",
+      "live_sha256": "df760ec3a65b497e52cb78cbe3ade62123d44ff5c7faa463ca56233f99b92e23",
+      "identical": true
+    },
+    {
+      "path": "assets/js/a9f8bf57.6f1fb794.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/a9f8bf57.6f1fb794.js",
+      "zip_sha256": "e8f2f1298ce8c2bfeb94af68751721b92e1cfec843d6c44a37c2a5ce62713e48",
+      "live_sha256": "e8f2f1298ce8c2bfeb94af68751721b92e1cfec843d6c44a37c2a5ce62713e48",
+      "identical": true
+    },
+    {
+      "path": "assets/js/9fb216b0.63a7bcf0.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/9fb216b0.63a7bcf0.js",
+      "zip_sha256": "65f09f33d65321e0a0c31d957a81b2d268cd436f5685ca8405110f068ec4e095",
+      "live_sha256": "65f09f33d65321e0a0c31d957a81b2d268cd436f5685ca8405110f068ec4e095",
+      "identical": true
+    },
+    {
+      "path": "assets/js/0e384e19.c036ff37.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/0e384e19.c036ff37.js",
+      "zip_sha256": "c761c49ec07ed78f9d7a6cb2862ac8c0c77ca43d790072c240aed434b2c74d8e",
+      "live_sha256": "c761c49ec07ed78f9d7a6cb2862ac8c0c77ca43d790072c240aed434b2c74d8e",
+      "identical": true
+    },
+    {
+      "path": "assets/js/434f75a9.658fe710.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/434f75a9.658fe710.js",
+      "zip_sha256": "20552d7c86b6e61760f14c8ea9ff567ed27aef28ae5c9ee507fd16e2ded11e27",
+      "live_sha256": "20552d7c86b6e61760f14c8ea9ff567ed27aef28ae5c9ee507fd16e2ded11e27",
+      "identical": true
+    },
+    {
+      "path": "assets/js/8e33b65d.7716092f.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/8e33b65d.7716092f.js",
+      "zip_sha256": "f7260cfe9dcf61d245246857721c7aba80f59ed2b20c118e1baff14f11b85e6e",
+      "live_sha256": "f7260cfe9dcf61d245246857721c7aba80f59ed2b20c118e1baff14f11b85e6e",
+      "identical": true
+    },
+    {
+      "path": "assets/js/d706a50d.99e4c4c4.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/d706a50d.99e4c4c4.js",
+      "zip_sha256": "103829f67f195f73b8f7f235d03e4733038de8e27ad3ba12dd4a6209ebd65a14",
+      "live_sha256": "103829f67f195f73b8f7f235d03e4733038de8e27ad3ba12dd4a6209ebd65a14",
+      "identical": true
+    },
+    {
+      "path": "assets/js/cfa78967.a3884f4f.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/cfa78967.a3884f4f.js",
+      "zip_sha256": "800de09673b8334e56871f0e27bbfc75c2cd276d54bc9d96b2162c469057b133",
+      "live_sha256": "800de09673b8334e56871f0e27bbfc75c2cd276d54bc9d96b2162c469057b133",
+      "identical": true
+    },
+    {
+      "path": "assets/js/ebe8a3d5.016792a1.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/ebe8a3d5.016792a1.js",
+      "zip_sha256": "c33b4f775dcbd7452954b38a9c08e5af74ecdd0c2448fcbc77809048153e2665",
+      "live_sha256": "c33b4f775dcbd7452954b38a9c08e5af74ecdd0c2448fcbc77809048153e2665",
+      "identical": true
+    },
+    {
+      "path": "assets/js/61e1d854.e63bce8b.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/61e1d854.e63bce8b.js",
+      "zip_sha256": "a07e8aca2b69ac8d75ea785a367f3dcd2577140899ea370f1b934db5ba3fa4b9",
+      "live_sha256": "a07e8aca2b69ac8d75ea785a367f3dcd2577140899ea370f1b934db5ba3fa4b9",
+      "identical": true
+    },
+    {
+      "path": "assets/js/39318271.52405ce7.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/39318271.52405ce7.js",
+      "zip_sha256": "88f05043af61a0fd8a1c348af12cdca291690c62bfd623cb3de3d626e1c4fab3",
+      "live_sha256": "88f05043af61a0fd8a1c348af12cdca291690c62bfd623cb3de3d626e1c4fab3",
+      "identical": true
+    },
+    {
+      "path": "assets/js/408.096b59c6.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/assets/js/408.096b59c6.js",
+      "zip_sha256": "a1088fa5072b3f1ba3dbb827cc99fff775fbe1741cfa2cd6df5418c0927a9e96",
+      "live_sha256": "a1088fa5072b3f1ba3dbb827cc99fff775fbe1741cfa2cd6df5418c0927a9e96",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/docs/ManageFilters/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/docs/ManageFilters/",
+      "zip_sha256": "c34e6e3d087fc8aa2f317821a3d077d61ecfca12d734e9fd034b8930a5afbecc",
+      "live_sha256": "c34e6e3d087fc8aa2f317821a3d077d61ecfca12d734e9fd034b8930a5afbecc",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/docs/PhotoExtension/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/docs/PhotoExtension/",
+      "zip_sha256": "1dd732ec821c32b15524202e0b38e1db4e95a49ad8d3137b46ebe8d698fb4b8f",
+      "live_sha256": "1dd732ec821c32b15524202e0b38e1db4e95a49ad8d3137b46ebe8d698fb4b8f",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/docs/ImportLut/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/docs/ImportLut/",
+      "zip_sha256": "58c35d677b27a344b83fe81f7b0139a952194dbc52157721f5e99179be4ea452",
+      "live_sha256": "58c35d677b27a344b83fe81f7b0139a952194dbc52157721f5e99179be4ea452",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/docs/FusionCamera/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/docs/FusionCamera/",
+      "zip_sha256": "6b20dfad7077168cb2fdc977671877bf76d3e601eb7b8bbd8a3d95cc07a59de7",
+      "live_sha256": "6b20dfad7077168cb2fdc977671877bf76d3e601eb7b8bbd8a3d95cc07a59de7",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/docs/LogLut/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/docs/LogLut/",
+      "zip_sha256": "8509d750084fbd1f5ec2cee2c6b7b04559639fe0bccf80f8667895eb75195af9",
+      "live_sha256": "8509d750084fbd1f5ec2cee2c6b7b04559639fe0bccf80f8667895eb75195af9",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/docs/CaptureProcess/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/docs/CaptureProcess/",
+      "zip_sha256": "3ccf67cd19dc3c7c4c18059d7b6c5831705daa5db7b5516b7bbe57f797b167ca",
+      "live_sha256": "3ccf67cd19dc3c7c4c18059d7b6c5831705daa5db7b5516b7bbe57f797b167ca",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/docs/intro/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/docs/intro/",
+      "zip_sha256": "5af7ee67a9d3e13fac8996bbeb26aefa7f8f8d5f33b3894c26494df432e9af64",
+      "live_sha256": "5af7ee67a9d3e13fac8996bbeb26aefa7f8f8d5f33b3894c26494df432e9af64",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/docs/AdvanceTools/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/docs/AdvanceTools/",
+      "zip_sha256": "0ab2125b78da07bbd84c52a0a0ce8cf87f841fcf2aa0577c91f46f1ceb62cb9f",
+      "live_sha256": "0ab2125b78da07bbd84c52a0a0ce8cf87f841fcf2aa0577c91f46f1ceb62cb9f",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/docs/HDR/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/docs/HDR/",
+      "zip_sha256": "ad018ed6f72d1113fdc7c40f8b661b53e6004229910cb8fa0005f846f92cdb0a",
+      "live_sha256": "ad018ed6f72d1113fdc7c40f8b661b53e6004229910cb8fa0005f846f92cdb0a",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/docs/HDRVideo/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/docs/HDRVideo/",
+      "zip_sha256": "37ca51b2bab04edf629a3cf089586a96b23e0c1913e8d6648ecbe6a72411d402",
+      "live_sha256": "37ca51b2bab04edf629a3cf089586a96b23e0c1913e8d6648ecbe6a72411d402",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/docs/CaptureSettingsGuide/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/docs/CaptureSettingsGuide/",
+      "zip_sha256": "5e3b97aed7ab43dc68b4f1584273e176bf3b8cc9497ee09d5863e42facd83a96",
+      "live_sha256": "5e3b97aed7ab43dc68b4f1584273e176bf3b8cc9497ee09d5863e42facd83a96",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/docs/InAppTutorial/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/docs/InAppTutorial/",
+      "zip_sha256": "acb0212e8110402bcffa2c42735d827f050f57b76865c6cf40e526ed89e4b109",
+      "live_sha256": "acb0212e8110402bcffa2c42735d827f050f57b76865c6cf40e526ed89e4b109",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/docs/LumixLabLog/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/docs/LumixLabLog/",
+      "zip_sha256": "fd5d64bcce4fe36f36ca6f76cdc5d523618b1997d721ef77ff1c7d82d189a8d0",
+      "live_sha256": "fd5d64bcce4fe36f36ca6f76cdc5d523618b1997d721ef77ff1c7d82d189a8d0",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/docs/QA/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/docs/QA/",
+      "zip_sha256": "83e55ea0812ad4133ff727a0405dda0b4e52ffe54ef9b5ee0dfe1dd44d518ed0",
+      "live_sha256": "83e55ea0812ad4133ff727a0405dda0b4e52ffe54ef9b5ee0dfe1dd44d518ed0",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/docs/CovnertXMPToCube/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/docs/CovnertXMPToCube/",
+      "zip_sha256": "b42628cb6a601073b44b3933f37cd7c5c02c42a9b2bd6dd323c2f10a1626d315",
+      "live_sha256": "b42628cb6a601073b44b3933f37cd7c5c02c42a9b2bd6dd323c2f10a1626d315",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/docs/DesharpenSettings/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/docs/DesharpenSettings/",
+      "zip_sha256": "4a83b6a3f234a2b6f1ed02d211d0382adb22a9b037b5c8da90d801942ea13bf2",
+      "live_sha256": "4a83b6a3f234a2b6f1ed02d211d0382adb22a9b037b5c8da90d801942ea13bf2",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/docs/BatchEdit/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/docs/BatchEdit/",
+      "zip_sha256": "dee4260af723adc542eeb3ead776d80cbac7bdae793c5cf766e48dd44b6c134b",
+      "live_sha256": "dee4260af723adc542eeb3ead776d80cbac7bdae793c5cf766e48dd44b6c134b",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/docs/RemoveWatermark/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/docs/RemoveWatermark/",
+      "zip_sha256": "b47fe520b387a908bd6ade32e269cfa2630170da1f9ec96108baf726d8a9e6f7",
+      "live_sha256": "b47fe520b387a908bd6ade32e269cfa2630170da1f9ec96108baf726d8a9e6f7",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/docs/Luts/",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/docs/Luts/",
+      "zip_sha256": "ec64b31ba2c5b3fad1dfb150e8f1c3cb662ee71e08dc3c1b469188bcaac455de",
+      "live_sha256": "ec64b31ba2c5b3fad1dfb150e8f1c3cb662ee71e08dc3c1b469188bcaac455de",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/css/styles.fd58e2a5.css",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/css/styles.fd58e2a5.css",
+      "zip_sha256": "5c86fcd90a7e97d221d8122c506d58c942806fc6a62373e8da24ca4a068ed582",
+      "live_sha256": "5c86fcd90a7e97d221d8122c506d58c942806fc6a62373e8da24ca4a068ed582",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/af9233d3.422b6ebd.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/af9233d3.422b6ebd.js",
+      "zip_sha256": "960842cb1fa058679115c3d82e87b3d3f1d8e603478771ec871c1f08ef8210ec",
+      "live_sha256": "960842cb1fa058679115c3d82e87b3d3f1d8e603478771ec871c1f08ef8210ec",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/5e95c892.7dc3e3cb.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/5e95c892.7dc3e3cb.js",
+      "zip_sha256": "4cf2e04d9e5648e6653d551a32e88d92c3174858e3f854d13ce2078bd24a614b",
+      "live_sha256": "4cf2e04d9e5648e6653d551a32e88d92c3174858e3f854d13ce2078bd24a614b",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/a7456010.cb1a6fca.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/a7456010.cb1a6fca.js",
+      "zip_sha256": "72339f1c47b3ad7273b09281465b9aa924abb4a170a4b9d4f014b207776cf598",
+      "live_sha256": "72339f1c47b3ad7273b09281465b9aa924abb4a170a4b9d4f014b207776cf598",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/1f391b9e.0e81a445.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/1f391b9e.0e81a445.js",
+      "zip_sha256": "6589386209b64fc9dfe8fc08a98f861d7ab476b0925f7ddc54582c31fc649227",
+      "live_sha256": "6589386209b64fc9dfe8fc08a98f861d7ab476b0925f7ddc54582c31fc649227",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/aba21aa0.7664c637.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/aba21aa0.7664c637.js",
+      "zip_sha256": "e37b379161f5abf0c9feba97f11096337ffaa2d6ced4c8727ffc1e5e8ee7a2f6",
+      "live_sha256": "e37b379161f5abf0c9feba97f11096337ffaa2d6ced4c8727ffc1e5e8ee7a2f6",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/dcca2780.913479d9.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/dcca2780.913479d9.js",
+      "zip_sha256": "ca3378fbaa5e3ffc53bd5babe1611dd2a7ea0420db4ef1d6a6f1b4f980d307b0",
+      "live_sha256": "ca3378fbaa5e3ffc53bd5babe1611dd2a7ea0420db4ef1d6a6f1b4f980d307b0",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/b151e6b6.9d534569.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/b151e6b6.9d534569.js",
+      "zip_sha256": "6ed3b99723da64b767fde2e45105747a26041fb157990d29cd47917d130c3897",
+      "live_sha256": "6ed3b99723da64b767fde2e45105747a26041fb157990d29cd47917d130c3897",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/main.8c200c80.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/main.8c200c80.js",
+      "zip_sha256": "def9d3d2399df751d0d7b5ea9bc24ee6a67f2da0b63a4a2c44271ef408a2ed8b",
+      "live_sha256": "def9d3d2399df751d0d7b5ea9bc24ee6a67f2da0b63a4a2c44271ef408a2ed8b",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/cf30e2d4.d382c0bb.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/cf30e2d4.d382c0bb.js",
+      "zip_sha256": "a3b7b2200d5d60ffb75c157555ab9cd1179457d790876f2d139931dfb71e300a",
+      "live_sha256": "a3b7b2200d5d60ffb75c157555ab9cd1179457d790876f2d139931dfb71e300a",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/2e5a2a35.7b726d0b.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/2e5a2a35.7b726d0b.js",
+      "zip_sha256": "f88cb37b45a314ad0601e33e75a0bbe1e4b716e0c1005b5f6b607b94d9da2c81",
+      "live_sha256": "f88cb37b45a314ad0601e33e75a0bbe1e4b716e0c1005b5f6b607b94d9da2c81",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/b1c76c63.93ab1225.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/b1c76c63.93ab1225.js",
+      "zip_sha256": "b97ca0bfb4b982a913051cc847b834031bdd0ce7814f9630d49664a091af756f",
+      "live_sha256": "b97ca0bfb4b982a913051cc847b834031bdd0ce7814f9630d49664a091af756f",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/0c958776.7d938598.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/0c958776.7d938598.js",
+      "zip_sha256": "cbe25418cc619cabf823649b18bedb11a740cfd9e353dfa74894c3fc90e42a05",
+      "live_sha256": "cbe25418cc619cabf823649b18bedb11a740cfd9e353dfa74894c3fc90e42a05",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/ab38a786.8abd9904.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/ab38a786.8abd9904.js",
+      "zip_sha256": "493b228745225c27a0bcd5138c4c607ddaed20528a50aff32e0f57b58639590c",
+      "live_sha256": "493b228745225c27a0bcd5138c4c607ddaed20528a50aff32e0f57b58639590c",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/17896441.beaf425c.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/17896441.beaf425c.js",
+      "zip_sha256": "2663798cad4b6fb9f8e91c5520f685bb3732199ffffeaceee20e6c647c8706c3",
+      "live_sha256": "2663798cad4b6fb9f8e91c5520f685bb3732199ffffeaceee20e6c647c8706c3",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/6a1847c7.8ff8869f.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/6a1847c7.8ff8869f.js",
+      "zip_sha256": "99e2581dc86acc4eb53e2833afe5c77b3718ea2a316a9736d23bc3701b1adc3e",
+      "live_sha256": "99e2581dc86acc4eb53e2833afe5c77b3718ea2a316a9736d23bc3701b1adc3e",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/3f9fa324.29c12389.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/3f9fa324.29c12389.js",
+      "zip_sha256": "c5ec1e3215e34a9689e29828d05489f24139d3d83884e23ea4a15503995c1ddc",
+      "live_sha256": "c5ec1e3215e34a9689e29828d05489f24139d3d83884e23ea4a15503995c1ddc",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/a7bd4aaa.591d3369.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/a7bd4aaa.591d3369.js",
+      "zip_sha256": "bacbed50ff811537b09b409d37e62d29cb12d0358511f847fabcdba75d133786",
+      "live_sha256": "bacbed50ff811537b09b409d37e62d29cb12d0358511f847fabcdba75d133786",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/d8062d3d.9ca487a8.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/d8062d3d.9ca487a8.js",
+      "zip_sha256": "781988f23af8f4f36d9483b8a1aca6916b904e7f47245bd70aaef33075fa8690",
+      "live_sha256": "781988f23af8f4f36d9483b8a1aca6916b904e7f47245bd70aaef33075fa8690",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/9e4b9e9c.3df554b0.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/9e4b9e9c.3df554b0.js",
+      "zip_sha256": "1a9cfb8cff2d693bfe108b0338c92009989de509ef83907f14748b63e3657493",
+      "live_sha256": "1a9cfb8cff2d693bfe108b0338c92009989de509ef83907f14748b63e3657493",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/2b24d437.bd7e4d73.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/2b24d437.bd7e4d73.js",
+      "zip_sha256": "173eed3ec24eef3f67c43d4073d3a23ed13932ffeeac403b785223bd669d7caf",
+      "live_sha256": "173eed3ec24eef3f67c43d4073d3a23ed13932ffeeac403b785223bd669d7caf",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/2b8371c6.b45e5755.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/2b8371c6.b45e5755.js",
+      "zip_sha256": "c089c9c95b62ffee8943478d43645ab778e40eff173f1320d17de1aba6fcf946",
+      "live_sha256": "c089c9c95b62ffee8943478d43645ab778e40eff173f1320d17de1aba6fcf946",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/8714cb10.b0fe15f5.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/8714cb10.b0fe15f5.js",
+      "zip_sha256": "fc601b4e04e3f778c9a5aa338c04743a632c3fe7f8937f856adb411fefee6973",
+      "live_sha256": "fc601b4e04e3f778c9a5aa338c04743a632c3fe7f8937f856adb411fefee6973",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/467e477c.77778ece.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/467e477c.77778ece.js",
+      "zip_sha256": "7778acabe324a82daef3cbda558a7d4fb27c388d4f874509e2585706b2089a1b",
+      "live_sha256": "7778acabe324a82daef3cbda558a7d4fb27c388d4f874509e2585706b2089a1b",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/a94703ab.3786ba98.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/a94703ab.3786ba98.js",
+      "zip_sha256": "55d9a051ed1258d67d0e8bf7795860263022e528d8d72e6b2584d75ab284a6ed",
+      "live_sha256": "55d9a051ed1258d67d0e8bf7795860263022e528d8d72e6b2584d75ab284a6ed",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/runtime~main.b31680e5.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/runtime~main.b31680e5.js",
+      "zip_sha256": "93762d947c8fd85d6b211fd4439340033d670973cf3bfa7edbe6a5e8bd550ebd",
+      "live_sha256": "93762d947c8fd85d6b211fd4439340033d670973cf3bfa7edbe6a5e8bd550ebd",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/c4f5d8e4.60e42543.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/c4f5d8e4.60e42543.js",
+      "zip_sha256": "919c24da18542bae474339a272cc8d224927226bdc9bcc4183062e381ab726dc",
+      "live_sha256": "919c24da18542bae474339a272cc8d224927226bdc9bcc4183062e381ab726dc",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/186863e3.c5ff57f5.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/186863e3.c5ff57f5.js",
+      "zip_sha256": "922ad5baafa3e5fb188dd37a6d4e04bae59c438f2bbe8fb54734bdb81fef1e24",
+      "live_sha256": "922ad5baafa3e5fb188dd37a6d4e04bae59c438f2bbe8fb54734bdb81fef1e24",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/237.17b86356.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/237.17b86356.js",
+      "zip_sha256": "cffc0489d8fb5686d084e3e1f8326904690a2ac1a9464580aab3b7e5cd8ceb3d",
+      "live_sha256": "cffc0489d8fb5686d084e3e1f8326904690a2ac1a9464580aab3b7e5cd8ceb3d",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/a3da9697.15b834c0.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/a3da9697.15b834c0.js",
+      "zip_sha256": "2741be3e446be51784c65f5a7fd6467ab5621e0fa593d3867a683e864808f973",
+      "live_sha256": "2741be3e446be51784c65f5a7fd6467ab5621e0fa593d3867a683e864808f973",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/4829ce24.c2b4e66b.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/4829ce24.c2b4e66b.js",
+      "zip_sha256": "dd05c09a128e2b9ff033c4c0b5c11ee980d64058cbf7578ea07c40d5bac3dfe7",
+      "live_sha256": "dd05c09a128e2b9ff033c4c0b5c11ee980d64058cbf7578ea07c40d5bac3dfe7",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/d6aefa7b.0837a2fd.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/d6aefa7b.0837a2fd.js",
+      "zip_sha256": "28677124ac285bdf1f1810d42757cfe270c645ff72e1057333f3c368608b4baa",
+      "live_sha256": "28677124ac285bdf1f1810d42757cfe270c645ff72e1057333f3c368608b4baa",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/1d089a32.06bcd1d2.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/1d089a32.06bcd1d2.js",
+      "zip_sha256": "076efcbff1fd5ea61982213e4a0dddbccea487f265aa3c35e6ea9ed1b48452e6",
+      "live_sha256": "076efcbff1fd5ea61982213e4a0dddbccea487f265aa3c35e6ea9ed1b48452e6",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/cc5c29ea.17eb0f94.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/cc5c29ea.17eb0f94.js",
+      "zip_sha256": "eb0bcbf966daafb641bbd21cfad1201d89b78a9091c2f70ef9695d80c1bf1f93",
+      "live_sha256": "eb0bcbf966daafb641bbd21cfad1201d89b78a9091c2f70ef9695d80c1bf1f93",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/408.096b59c6.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/408.096b59c6.js",
+      "zip_sha256": "a1088fa5072b3f1ba3dbb827cc99fff775fbe1741cfa2cd6df5418c0927a9e96",
+      "live_sha256": "a1088fa5072b3f1ba3dbb827cc99fff775fbe1741cfa2cd6df5418c0927a9e96",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/505b20f1.60ccc22d.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/505b20f1.60ccc22d.js",
+      "zip_sha256": "2755384c37774f5b303ef4125cafe45201d6d88bac34855cb67f2de21c778073",
+      "live_sha256": "2755384c37774f5b303ef4125cafe45201d6d88bac34855cb67f2de21c778073",
+      "identical": true
+    },
+    {
+      "path": "zh-hans/assets/js/6d6ff948.ab2990b2.js",
+      "status": 200,
+      "url": "https://juniperphoton.dev/photoncam/zh-hans/assets/js/6d6ff948.ab2990b2.js",
+      "zip_sha256": "e3d899d014cfed791c56d6ccfba87a54dafefac0aa0a193151cf0b99bdaf3287",
+      "live_sha256": "e3d899d014cfed791c56d6ccfba87a54dafefac0aa0a193151cf0b99bdaf3287",
+      "identical": true
+    }
+  ]
+}
